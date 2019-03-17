@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="fact">!</string>
+    <string name="pi">π</string>
+    <string name="tan">tan</string>
+    <string name="cos">cos</string>
+    <string name="sin">sin</string>
+    <string name="root">√</string>
+    <string name="pow">^</string>
+    <string name="exp">e</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="equals">=</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="brOpen">(</string>
+    <string name="brClose">)</string>
+    <string name="multiply">x</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="divide">÷</string>
+</resources>
